@@ -1,3 +1,3 @@
 # hello-world
 hello world
-juust a guy saying hello
+just a guy saying hello
